@@ -1,4 +1,4 @@
-# Discord Gank Logger Bot 🤖
+# Discord Gank Logger Bot 
 
 A Discord bot designed for tracking and logging game ganks, featuring advanced statistics and management capabilities.
 
@@ -90,8 +90,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 ## 📞 Contact
 
 If you have questions or suggestions, contact us:
-- Discord: [Your Discord tag]
-- Email: [Your email]
+- Discord: talarek.filip
 
 ## 🙏 Acknowledgments
 
